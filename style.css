@@ -1,0 +1,17 @@
+.container {
+    text-align: center;
+    font-family: 'Lobster', cursive;
+    font-size: 30px;
+}
+h3 {
+    font-family: 'Caveat', cursive;
+    font-size: 28px;
+}
+p {
+    font-family: 'Amatic SC', cursive;
+    font-size: 24px;
+}
+/* Подключенные шрифты с google fonts:
+Amatic SC 
+Caveat
+Lobster */
